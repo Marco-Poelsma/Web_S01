@@ -1,5 +1,7 @@
 # SESIÓN 1
 
+[Pulsa aquí si quieres ir al ejercicio de clase](https://github.com/Marco-Poelsma/S01-Ex)
+
 ## Herramientas Básicas
 
 Para web, usaremos Visual Studio Code para programar y Google Chrome (u otro navegador según nuestra preferencia) para ver lo que hacemos.
