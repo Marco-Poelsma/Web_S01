@@ -54,3 +54,6 @@ Texto normal.
 
 Nos permite hacer palabras en negrita. Es importante recordar que este tag (al igual que los tags de título) tiene significado semántico. Por eso, es importante solo usar estos tags para partes que realmente queramos recalcar.
 
+### \<a\>
+
+a de **anchor**. Sirve para añadir enlaces a otras páginas.
