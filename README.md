@@ -56,4 +56,12 @@ Nos permite hacer palabras en negrita. Es importante recordar que este tag (al i
 
 ### \<a\>
 
-a de **anchor**. Sirve para añadir enlaces a otras páginas.
+a de **anchor**. Sirve para añadir enlaces a otras páginas. El enlace se añade dentro del tag, con el atributo href.
+
+### \<img /\>
+
+Sirve para añadir imágenes. Requiere el atributo src. Este tag también es uno de los pocos que se autocierra, es decir, no requiere un tag de cierre.
+
+### \<ul\> y \<ol\>
+
+Lista desordenada (\<ul\>) u ordenada (\<ol\>). Dentro de las listas, se añaden nuevos elementos con el tag \<li\>.
