@@ -22,6 +22,7 @@ Es importante tener la extensión "Live Server". Esta nos permite montar un serv
 
 El archivo base de HTML es index.html. Es importante solo usar ese nombre por el momento.
 
-## Tags de inicio de HTML
+## Tags de inicio de HTML:
 
-### <!DOCTYPE html>
+### \<\!DOCTYPE html:\>
+Este tag nos indica el tipo de documento (en este caso, html)
