@@ -65,3 +65,6 @@ Sirve para añadir imágenes. Requiere el atributo src. Este tag también es uno
 ### \<ul\> y \<ol\>
 
 Lista desordenada (\<ul\>) u ordenada (\<ol\>). Dentro de las listas, se añaden nuevos elementos con el tag \<li\>.
+
+## Aprender más
+MDN (Mozilla Developer Network) es una página donde podemos aprender más sobre todos los elementos y sus atributos.
