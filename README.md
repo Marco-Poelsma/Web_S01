@@ -37,3 +37,15 @@ Es importante indentar todos los elementos para que quede ordenado y legible.
 ### \<head\>
 
 Incluye los metadatos de nuestra página. Es decir, información que no se puede leer, como el lenguaje, la codificación de los carácteres (texto), el título de la pestaña, enlaces a hojas de estilos (CSS) y scripts (JS), etc.
+
+### \<!--- --\>
+
+Comentarios.
+
+### \<h1\>, \<h2\>, \<h3\>, \<h4\>, \<h5\>, \<h6\>
+
+Títulos. El \<h1\> es el más importante (grande) y \<h6\> el menos importante.
+
+### \<p\>
+
+Texto
