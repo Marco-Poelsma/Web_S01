@@ -38,7 +38,7 @@ Es importante indentar todos los elementos para que quede ordenado y legible.
 
 Incluye los metadatos de nuestra página. Es decir, información que no se puede leer, como el lenguaje, la codificación de los carácteres (texto), el título de la pestaña, enlaces a hojas de estilos (CSS) y scripts (JS), etc.
 
-### \<!--- --\>
+### \<!-- --\>
 
 Comentarios.
 
@@ -53,3 +53,4 @@ Texto normal.
 ### \<strong\>
 
 Nos permite hacer palabras en negrita. Es importante recordar que este tag (al igual que los tags de título) tiene significado semántico. Por eso, es importante solo usar estos tags para partes que realmente queramos recalcar.
+
