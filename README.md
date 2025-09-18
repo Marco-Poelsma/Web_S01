@@ -1,6 +1,6 @@
 # SESIÓN 1
 
-[Pulsa aquí si quieres ir al ejercicio de clase](https://github.com/Marco-Poelsma/S01-Ex)
+[Haz clic aquí si quieres ir al ejercicio de clase](https://github.com/Marco-Poelsma/S01-Ex)
 
 ## Herramientas Básicas
 
