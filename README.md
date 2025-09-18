@@ -24,5 +24,8 @@ El archivo base de HTML es index.html. Es importante solo usar ese nombre por el
 
 ## Tags de inicio de HTML:
 
-### \<\!DOCTYPE html:\>
-Este tag nos indica el tipo de documento (en este caso, html)
+### \<\!DOCTYPE html\>
+Este tag nos indica el tipo de documento (en este caso, HTML).
+
+### \<html\>
+Es el tag que incluye todo el contenido (encabezado y cuerpo) de la página. Se cierra con \<\/html\>.
