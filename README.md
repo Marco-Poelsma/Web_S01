@@ -48,4 +48,8 @@ Títulos. El \<h1\> es el más importante (grande) y \<h6\> el menos importante.
 
 ### \<p\>
 
-Texto
+Texto normal.
+
+### \<strong\>
+
+Nos permite hacer palabras en negrita. Es importante recordar que este tag (al igual que los tags de título) tiene significado semántico. Por eso, es importante solo usar estos tags para partes que realmente queramos recalcar.
